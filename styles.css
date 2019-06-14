@@ -1,6 +1,6 @@
 body {
 	width: 100%;
-	max-width: 1024px;
+	
 	margin: 0 auto;
 	background-color: whitesmoke;
 	font-size: 62.5%;
@@ -53,7 +53,7 @@ nav ul {
 nav ul li {
 	display: inline-block;
 	margin-right: 1em;
-	font-size: 1.15em;
+	font-size: 1.20em;
 }
 
 p {
@@ -81,8 +81,13 @@ footer p {
 	display: inline-block;
 }
 img {
-	width: 100%;
-	max-width: 100%;
+	width: 75%;
 }
+.head {
+	background-color: lightgray
+
+}
+
+
 
 
